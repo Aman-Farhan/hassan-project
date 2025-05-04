@@ -1,0 +1,22 @@
+*{
+    /* border: 1px solid black; */
+    margin: 0%;
+}
+.main{
+    width: 300px;
+    height: 200px;
+    /* align-items: center/; */
+    justify-content: center;
+    margin: 15px 500px 15px 500px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 15px;
+    font-style: italic;
+    display: inline-block;
+    /* display: contents; */
+
+}
+.container{
+    border: 1px solid black;
+    margin: 200px;
+}
