@@ -12,11 +12,13 @@
     text-align: center;
     padding: 15px;
     font-style: italic;
-    display: inline-block;
+    /* display: flex; */
     /* display: contents; */
 
 }
 .container{
     border: 1px solid black;
     margin: 200px;
+    display: flex;
+    
 }
